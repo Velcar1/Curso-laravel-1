@@ -101,7 +101,7 @@
             <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 <img src="{{asset("assets/$theme/dist/img/user3-128x128.jpg")}}" class="user-image" alt="User Image">
-                <span class="hidden-xs">Alexander Pierce</span>
+                <span class="hidden-xs">Alexandra Pierce</span>
             </a>
             <ul class="dropdown-menu">
                 <!-- User image -->
