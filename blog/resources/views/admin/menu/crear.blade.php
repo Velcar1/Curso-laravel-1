@@ -11,6 +11,8 @@
                 <div class="box-header with-border">
                     <h3 class="box-title">Crear menus</h3>
                 </div>
+                @include('includes.form-error')
+                @include('includes.mensaje')
                 <form action="{{route('guardar_menu')}}" id="form-general" class="form-horizontal" method="POST">
                     @csrf
                     <div class="box-body">
