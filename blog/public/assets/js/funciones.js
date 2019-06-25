@@ -30,10 +30,10 @@ var Biblioteca = function () {
                     }
                 },
                 invalidHandler: function (event, validator) { //display error alert on form submit
-
+                    
                 },
                 submitHandler: function (form) {
-
+                    return true;
                 }
             });
         },
